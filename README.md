@@ -9,7 +9,7 @@ How to run the GYM  Management System Project Using PHP and MySQL
 
 5.Create a database with name gymdb
 
-6.Import gymdb.sql file(given inside the zip package in SQL file folder)
+6.Import gymdb.sql file(given inside the zip package in gymdb.sql)
 
 7.Run the script http://localhost/gym
 
